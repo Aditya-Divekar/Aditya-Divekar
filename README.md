@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
-<p align="center">
+---
+
+<h3>🏆 Achievements</h3>
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aditya-divekar&theme=onedark&margin-w=10&margin-h=10" />
   </a>
@@ -9,9 +12,8 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
+<h3>🌐 Connect with me</h3>
+<p>
   <a href="https://twitter.com/adityavd9">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
@@ -28,9 +30,8 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
+<h3>🛠️ Languages & Tools</h3>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
@@ -45,12 +46,11 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
+<h3>📊 GitHub Stats</h3>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=aditya-divekar&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-divekar&theme=tokyonight" />
 </p>
